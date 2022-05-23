@@ -34,7 +34,7 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    background: linear-gradient(rgba(151, 151, 151, 0.98), rgb(14, 14, 14));
+    background: linear-gradient(rgb(151, 151, 151), rgb(14, 14, 14));
     
     width: 1080px;
     min-height: 100vh;
